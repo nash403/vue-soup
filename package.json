@@ -1,0 +1,9 @@
+{
+  "name": "vue-soup",
+  "version": "0.1.0",
+  "description": "A collection of reusable Vue.js components designed with minimal concern for style.",
+  "main": "index.js",
+  "repository": "https://github.com/nash403/vue-soup.git",
+  "author": "Honoré Nintunze <nintu.lab@gmail.com>",
+  "license": "MIT"
+}
